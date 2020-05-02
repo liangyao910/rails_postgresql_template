@@ -24,5 +24,5 @@ Things you may want to cover:
 * ...
 
 参考記事：
-[丁寧すぎるDocker-composeによるrails5 + MySQL on Dockerの環境構築(Docker for Mac)](https://qiita.com/azul915/items/5b7063cbc80192343fc0)
-[DockerでRails・PostgreSQL構築](https://qiita.com/jungissei/items/c58bd1158cd909540b26)
+- [丁寧すぎるDocker-composeによるrails5 + MySQL on Dockerの環境構築(Docker for Mac)](https://qiita.com/azul915/items/5b7063cbc80192343fc0)
+- [DockerでRails・PostgreSQL構築](https://qiita.com/jungissei/items/c58bd1158cd909540b26)
